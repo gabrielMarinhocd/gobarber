@@ -23,5 +23,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#outher
-/config
+.idea/
+.vscode/
+temp/
+
+tmp/*
+!tmp/.gitkeep
+
